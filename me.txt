@@ -1,1 +1,5 @@
-
+{{#user}}
+Name:Pooja G
+Skills:SQL,Manual testing,html,css,javascript,api testing
+Email:poojagidamallanavar151@gmail.com
+{{/user}}
